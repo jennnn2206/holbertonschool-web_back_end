@@ -3,3 +3,4 @@
 
 def update_topics(mongo_collection, name, topics):
     """Change topics on a document based on the name"""
+    
